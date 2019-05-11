@@ -1,0 +1,6 @@
+owner=517777521526177803
+prefix=AS
+game=AZMA&SHAKIRA
+stayinchannel=true
+songinstatus=false
+token=NTc2NjY0NTA5NjAzNjQzNDAx.XNZzcw.EIRco7zYqlLMcCI_tNDBa8Bd8cQ
